@@ -1,4 +1,7 @@
 # This is a placeholder class.
-class template {
-  anchor { 'Hello_World': }
+class sublhandler {
+  package { 'SublHandler':
+    source   => 'http://asuth.com/SublHandler.app.zip',
+    provider => 'compressed_app'
+  }
 }
