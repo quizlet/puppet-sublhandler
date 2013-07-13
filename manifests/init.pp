@@ -2,7 +2,7 @@
 class sublhandler {
 
   package { 'SublHandler':
-    source   => 'puppet:///sublhandler/SublHandler.app.zip',
+    source   => 'file:///opt/boxen/repo/shared/sublhandler/files/SublHandler.app.zip',
     provider => 'compressed_app'
   }
 }
