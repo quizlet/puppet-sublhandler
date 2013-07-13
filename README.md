@@ -1,6 +1,6 @@
-# Propane Puppet Module for Boxen
+# SublHandler Puppet Module for Boxen
 
-Installs Propane App.
+Installs SublHandler App.
 
 ## Usage
 
@@ -12,6 +12,10 @@ include sublhandler
 
 * boxen
 * stdlib
+
+## Credit
+
+[Alex Ulianytskyi](https://github.com/asux/subl-handler)
 
 ## Developing
 
