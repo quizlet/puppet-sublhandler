@@ -15,7 +15,7 @@ include sublhandler
 
 ## Credit
 
-[Alex Ulianytskyi](https://github.com/asux/subl-handler)
+[Karoun Kasraie](//github.com/karoun/SublHandler.app)
 
 ## Developing
 

@@ -2,7 +2,7 @@
 class sublhandler {
 
   package { 'SublHandler':
-    source   => 'file:///opt/boxen/repo/shared/sublhandler/files/SublHandler.app.zip',
+    source   => 'https://github.com/karoun/SublHandler.app/releases/download/v1.2/SublHandler.app.zip',
     provider => 'compressed_app'
   }
 }
